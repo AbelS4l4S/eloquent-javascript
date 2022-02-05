@@ -21,3 +21,8 @@ console.log('\n')
 //Formato de Texto
 console.log("Formato de texto")
 console.log(`mitad de 100 es ${100/2}`)
+console.log('\n')
+
+//Unary operator
+console.log("EL tipo de dato de 4.5 es: ",typeof 4.5)
+console.log("EL tipo de dato de x es: ",typeof "x")
